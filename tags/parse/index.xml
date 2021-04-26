@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Dronrs Blog</title>
-    <link>https://dronrs.github.io/post/</link>
-    <description>Recent content in Posts on Dronrs Blog</description>
+    <title>parse on Dronrs Blog</title>
+    <link>https://dronrs.github.io/tags/parse/</link>
+    <description>Recent content in parse on Dronrs Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Apr 2021 20:43:03 +0800</lastBuildDate><atom:link href="https://dronrs.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Apr 2021 20:43:03 +0800</lastBuildDate><atom:link href="https://dronrs.github.io/tags/parse/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Python Lark Parser使用</title>
       <link>https://dronrs.github.io/post/python-lark-parser/</link>
@@ -14,15 +14,6 @@
       
       <guid>https://dronrs.github.io/post/python-lark-parser/</guid>
       <description>Python Lark库是我最近找到的PLY库的替代品，使用上比PLY不知高到哪去了，今天就来讲讲这个Lark库的简要用法。 首先，使用Lark库需要从p</description>
-    </item>
-    
-    <item>
-      <title>First Post</title>
-      <link>https://dronrs.github.io/post/first-post/</link>
-      <pubDate>Thu, 22 Apr 2021 10:04:45 +0800</pubDate>
-      
-      <guid>https://dronrs.github.io/post/first-post/</guid>
-      <description>Actually nothing I wanna say, just test this blog.</description>
     </item>
     
   </channel>
