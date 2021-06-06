@@ -9,7 +9,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <meta http-equiv="Cache-Control" content="no-transform" />
 <meta http-equiv="Cache-Control" content="no-siteapp" />
-<meta name="generator" content="Hugo 0.82.1" />
+<meta name="generator" content="Hugo 0.83.1" />
 
 
 <link rel="shortcut icon" href="/icon/favicon.ico" />
@@ -74,7 +74,7 @@
         <div class="col-12 header">
             <a class="title-main" href="https://dronrs.github.io/">Dronrs Blog</a>
             
-            <span class="title-sub">👓&#43;1s</span>
+            <span class="title-sub">2 &#43; 2 = 5</span>
             
         </div>
     </div>
@@ -113,6 +113,28 @@
     </blockquote>
 </div>
 
+
+<div class="post-comment" data-comment="disqus">
+    <span class="post-comment-notloaded">
+        <i class="iconfont icon-chatbox-ellipses-sharp"></i>&nbsp;Load comments
+    </span>
+    <div id="disqus_thread" style="display: none;"></div>
+    <script>
+        function loadComment() {
+            var commentArea = document.querySelector('.post-comment');
+            var disqus_config = function () {
+                this.page.url = 'https:\/\/dronrs.github.io\/about\/';
+                this.page.identifier = 'about';
+            };
+            var s = document.createElement('script');
+            s.src = 'https://' + 'dronrs' + '.disqus.com/embed.js';
+            s.setAttribute('data-timestamp', +new Date());
+            document.querySelector('#disqus_thread').removeAttribute('style');
+            (document.body || document.head).appendChild(s);
+            document.querySelector('span.post-comment-notloaded').setAttribute('style', 'display: none;');
+        }
+    </script>
+</div>
 
 
             </div>
